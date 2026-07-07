@@ -84,11 +84,6 @@ Classic Battleship game implementation with clean game logic and user interactio
 
 ---
 
-## Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 ## Visitors
 
