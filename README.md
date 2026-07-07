@@ -12,11 +12,11 @@ Exploring machine learning, data science, robotics, and statistical modeling.
 
 ## About Me
 
-- 🎓 AI & Data Science Student
-- 🤖 Interested in Machine Learning and Data Science
-- 🤖 Building projects involving AI, Automation, and Analytics
-- 📚 Currently learning and experimenting with modern ML workflows
-- 🚀 Always looking for opportunities to build meaningful projects
+-  AI & Data Science Student
+-  Interested in Machine Learning and Data Science
+-  Building projects involving AI, Automation, and Analytics
+-  Currently learning and experimenting with modern ML workflows
+-  Always looking for opportunities to build meaningful projects
 
 ---
 
@@ -78,12 +78,6 @@ Classic Battleship game implementation with clean game logic and user interactio
 
 ---
 
-## Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/MeeraSRaj/MeeraSRaj/output/github-contribution-grid-snake-dark.svg)
-
----
-
 
 ## Visitors
 
@@ -93,8 +87,5 @@ Classic Battleship game implementation with clean game logic and user interactio
 
 <div align="center">
 
-### Thanks for visiting!
-
-Building, learning, and improving one project at a time.
 
 </div>
